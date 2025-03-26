@@ -12,12 +12,5 @@ Users have to create an account to use the application. The user’s information
 - XAMPP 
 - Java MySQL Connector
 
-## Screenshots  
 
-### Login Page  
-![Login Page] (https://github.com/Kvs-1725/Fitness-Tracker/blob/main/Fitbliss-main/project/resources/screenshot-1.png)
-
-### SignUp Page  
-![SignUp Page](resources/META-INF/screenshot-2.png)
-  
 
