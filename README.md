@@ -5,9 +5,18 @@ Users have to create an account to use the application. The user’s information
 
 
 ## Languages, Frameworks and Tools
-- Java 18.0
-- Swing GUI Toolkit 18.0
-- MySQL 8.0
-- IntelliJ IDEA Ultimate 2022.2
-- XAMPP 8.1
-- Java MySQL Connector 8.0
+- Java 
+- Swing GUI Toolkit 
+- MySQL 
+- IntelliJ IDEA Ultimate 
+- XAMPP 
+- Java MySQL Connector
+
+  ## Screenshots  
+
+### Login Page  
+![Login Page](resources/screenshot-1.png)  
+
+### SignUp Page  
+![Sign Up](resources/screenshot-2.png)  
+
