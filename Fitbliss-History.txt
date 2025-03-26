@@ -1,0 +1,6 @@
+                          ---------- EXERCISE HISTORY ----------                          
+ 
+USERNAME             EXERCISE             DURATION        CALORIES        DATE            
+ 
+Khushii              Cycling              30              360             26-03-2025      
+Khushii              Badminton            20              180             26-03-2025      
