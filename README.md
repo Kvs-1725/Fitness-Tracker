@@ -12,11 +12,12 @@ Users have to create an account to use the application. The user’s information
 - XAMPP 
 - Java MySQL Connector
 
-  ## Screenshots  
+## Screenshots  
 
 ### Login Page  
-![Login Page](resources/screenshot-1.png)  
+![Login Page](resources/META-INF/screenshot-1.png)
 
 ### SignUp Page  
-![Sign Up](resources/screenshot-2.png)  
+![SignUp Page](resources/META-INF/screenshot-2.png)
+  
 
